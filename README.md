@@ -2,7 +2,7 @@
 
 An experimental plugin to help with [component shadowing](<(https://www.gatsbyjs.org/docs/themes/shadowing/)>) discovery by annotating React components with the source file and the shadow target.
 
-![gatsby-plugin-theme-helpers](https://i.imgur.com/iY1eVR4.png)
+![gatsby-plugin-theme-helpers](https://i.imgur.com/8V2kGNv.jpg)
 
 ## Installation
 
