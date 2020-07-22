@@ -26,7 +26,7 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby`,
   },
-  plugins: [`gatsby-plugin-devtools`],
+  plugins: [`gatsby-plugin-theme-helpers`],
 }
 ```
 
