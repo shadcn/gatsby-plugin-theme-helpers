@@ -37,3 +37,5 @@ module.exports = {
 Inspect your site using Devtools.
 
 The plugin will add `data-source` and `data-shadow` attributes to your components to make it easy to figure out the source of a component and the name of the shadow file to create.
+
+### Starting a new Gatsby site? Check out https://github.com/reflexjs/reflex
